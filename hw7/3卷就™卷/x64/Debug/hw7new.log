@@ -1,0 +1,4 @@
+﻿  kmeans.cpp
+C:\Users\Arnoliu\source\repos\hw7\hw7new\kmeans.cpp(25,32): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\Arnoliu\source\repos\hw7\hw7new\kmeans.cpp(26,41): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  hw7new.vcxproj -> C:\Users\Arnoliu\source\repos\hw7\x64\Debug\hw7new.exe
