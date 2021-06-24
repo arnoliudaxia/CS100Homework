@@ -1,0 +1,11 @@
+﻿  cshw6.cpp
+C:\Users\Arnoliu\source\repos\cshw6\cshw6\cshw6.cpp(172,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Arnoliu\source\repos\cshw6\cshw6\cshw6.cpp(178,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Arnoliu\source\repos\cshw6\cshw6\cshw6.cpp(182,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Arnoliu\source\repos\cshw6\cshw6\cshw6.cpp(243,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Arnoliu\source\repos\cshw6\cshw6\cshw6.cpp(251,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Arnoliu\source\repos\cshw6\cshw6\cshw6.cpp(257,23): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Arnoliu\source\repos\cshw6\cshw6\cshw6.cpp(261,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Arnoliu\source\repos\cshw6\cshw6\cshw6.cpp(285,24): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Arnoliu\source\repos\cshw6\cshw6\cshw6.cpp(166): warning C4715: “ColumnComparator::operator()”: 不是所有的控件路径都返回值
+  cshw6.vcxproj -> C:\Users\Arnoliu\source\repos\cshw6\Debug\cshw6.exe
