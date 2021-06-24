@@ -1,0 +1,28 @@
+﻿  hw8.cpp
+C:\Users\Arnoliu\source\repos\hw8\hw8\poly.hpp(216,2): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Arnoliu\source\repos\hw8\hw8\poly.hpp(212): message : 在编译 类 模板 成员函数“Poly<TYPE> Poly<TYPE>::der(void) const”时
+C:\Users\Arnoliu\source\repos\hw8\hw8\hw8.cpp(50): message : 查看对正在编译的函数 模板 实例化“Poly<TYPE> Poly<TYPE>::der(void) const”的引用
+C:\Users\Arnoliu\source\repos\hw8\hw8\hw8.cpp(9): message : 查看对正在编译的 类 模板 实例化“Poly<TYPE>”的引用
+C:\Users\Arnoliu\source\repos\hw8\hw8\poly.hpp(198,2): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Arnoliu\source\repos\hw8\hw8\poly.hpp(196): message : 在编译 类 模板 成员函数“T Poly<T>::eval(T) const”时
+          with
+          [
+              T=TYPE
+          ]
+C:\Users\Arnoliu\source\repos\hw8\hw8\hw8.cpp(9): message : 查看对正在编译的函数 模板 实例化“T Poly<T>::eval(T) const”的引用
+          with
+          [
+              T=TYPE
+          ]
+C:\Users\Arnoliu\source\repos\hw8\hw8\poly.hpp(38,2): warning C4018: “<”: 有符号/无符号不匹配
+C:\Users\Arnoliu\source\repos\hw8\hw8\poly.hpp(36): message : 在编译 类 模板 成员函数“Poly<TYPE>::Poly(T *,size_t)”时
+          with
+          [
+              T=TYPE
+          ]
+C:\Users\Arnoliu\source\repos\hw8\hw8\hw8.cpp(27): message : 查看对正在编译的函数 模板 实例化“Poly<TYPE>::Poly(T *,size_t)”的引用
+          with
+          [
+              T=TYPE
+          ]
+  hw8.vcxproj -> C:\Users\Arnoliu\source\repos\hw8\Debug\hw8.exe
